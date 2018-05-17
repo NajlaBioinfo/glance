@@ -1,0 +1,93 @@
+---
+- name: Development
+  colour: blue 
+  sections: 
+  - links:
+    - title: GitHub
+      url: https://github.com/NajlaBioinfo
+    - title: Docker
+      url: https://hub.docker.com/u/najlabioinfo
+  - links:
+    - title: PHP
+      url: http://bhnajla.bioinfo.free.fr
+    - title: Django
+      url: http://bhnajlabioinfo.pythonanywhere.com/home
+    - title: Jekyll
+      url: https://najlabh.github.io
+    - title: Angular
+      url: https://ng-najlabhcv.herokuapp.com
+    - title: Go
+      url: https://najlabioinfo.github.io 
+- name: BI-Tools
+  colour: purple
+  sections:
+  - links:
+    - title: MutDetect
+      url: https://github.com/NajlaBioinfo/mutdetect-pipeline
+    - title: FileMatch
+      url: https://github.com/jos4uke/fileMatch/tree/74763b9239602be80b9003a0ef9a2103960d91de
+  - links:
+    - title: Docker-Ete
+      url: https://github.com/BHNtools/dockerEte/wiki
+    - title: Docker-COG-NOG
+      url: https://github.com/BHNtools/cog-docker-nog
+  - links:      
+    - title: ProtAAscan
+      url: https://github.com/NajlaBioinfo/ProtAAScann
+      
+- name: Publications
+  colour: green
+  sections:
+  - links:
+    - title: ORCID
+      url: http://orcid.org/0000-0002-6751-9515
+  - links:      
+    - title: PubMed
+      url: https://www.ncbi.nlm.nih.gov/pubmed/?term=najla+ben+hassine
+  - links:
+    - title: Mendeley
+      url: https://www.mendeley.com/profiles/najla-ben-hassine
+       
+- name: Social Media
+  colour: brown
+  sections:
+  - links:
+    - title: Linkedin
+      url: https://tn.linkedin.com/in/najla-ben-hassine-a7501a59
+  - links:
+    - title: Twitter
+      url: https://twitter.com/bhnajla_bioinfo
+    - title: Pinterest
+      url: https://www.pinterest.fr/najlabhfreelanc/cactus/
+  - links:
+    - title: stackoverflow
+      url: https://stackoverflow.com/users/5770875/najlabioinfo
+
+- name: Travel pictures
+  colour: pink
+  sections:
+  - links:
+    - title: Lausanne
+      url: #
+    - title: Como
+      url: #
+    - title: Cambridge
+      url: #
+  - links:
+    - title: Strasbourg
+      url: #
+    - title: Montpellier
+      url: #
+    - title: La Rochelle
+      url: #
+    - title: Paris
+      url: #
+- name: Latest reads
+  colour: cyan
+  sections:
+  - links:
+    - title: Biomimicry
+      url: https://www.google.com/imgres?imgurl=http://t0.gstatic.com/images?q%3Dtbn:ANd9GcTsTwcLblqFCb9f_j__7q1ocC1sQOPLbbVboU__3LcU8ftxJ0lZ&imgrefurl=https://books.google.com/books/about/Biomimicry.html?id%3DmDHKVQyJ94gC%26source%3Dkp_cover&h=648&w=423&tbnid=eDR-eJWKXYvPTM:&tbnh=160&tbnw=104&usg=__TpkZFfGthjK9OT5n2UcjoY294Ko%3D&vet=10ahUKEwjtgYTkxYzbAhUN2KQKHc0dBwUQ_B0IiQIwDQ..i&docid=njOby3zf-_KD1M&itg=1&client=firefox-b&sa=X&ved=0ahUKEwjtgYTkxYzbAhUN2KQKHc0dBwUQ_B0IiQIwDQ
+  - links:
+    - title: Codes secrets
+      url: https://books.google.tn/books/about/Le_grand_livre_des_codes_secrets_percez.html?id=AMs5NAEACAAJ&redir_esc=y

@@ -1,0 +1,7 @@
+baseURL = "https://najlabioinfo.io/"
+languageCode = "en-gb"
+title = "BHNajla-Glance"
+theme = "startpage"
+
+[params]
+    offline = true
