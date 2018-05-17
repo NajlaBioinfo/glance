@@ -2,6 +2,7 @@ baseURL = "https://najlabioinfo.io/"
 languageCode = "en-gb"
 title = "BHNajla-Glance"
 theme = "startpage"
+publishDir = "docs"
 
 [params]
-    offline = true
+    offline = false
