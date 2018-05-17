@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BHNajla-Glance</title>
-    <link>https://najlabioinfo.io/tags/</link>
+    <link>https://najlabioinfo.io/glance/tags/</link>
     <description>Recent content in Tags on BHNajla-Glance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://najlabioinfo.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://najlabioinfo.io/glance/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
