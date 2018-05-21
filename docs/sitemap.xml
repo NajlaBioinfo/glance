@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://najlabioinfo.io/glance/</loc>
+    <loc>https://najlabioinfo.github.io/glance/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://najlabioinfo.io/glance/categories/</loc>
+    <loc>https://najlabioinfo.github.io/glance/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://najlabioinfo.io/glance/tags/</loc>
+    <loc>https://najlabioinfo.github.io/glance/tags/</loc>
     <priority>0</priority>
   </url>
   
